@@ -2,6 +2,7 @@ package week3;
 
 import java.util.*;
 public class A108_ParkEunju_20240716 {
+	//A108 수 뒤집기 
 	public static void main(String args[]) {
 		Scanner s = new Scanner(System.in);
 		
